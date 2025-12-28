@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラリー、ラリー",
+  "base_artist": "MAISONdes",
+  "createdAt": "2025-12-28T15:18:33.832590Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラリー、ラリー",
+      "artist": "MAISONdes, Pii, meiyo",
+      "has_synced": false,
+      "path": "select/pl_01_ラリー、ラリー_MAISONdes,_Pii,_meiyo.txt"
+    }
+  ]
+}
